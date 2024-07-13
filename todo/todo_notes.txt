@@ -1,0 +1,13 @@
+todo_notes.txt
+
+Todo was created following:
+How to Start a Django Project
+https://medium.com/codex/how-to-start-a-django-project-42c7fbf740ec
+
+Activate todo environment:
+source todo-venv/bin/activate
+
+superuser:
+name: carlosalves
+pass: 
+
